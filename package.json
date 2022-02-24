@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "jest": "^27.5.1"
+  },
+  "name": "bank-account",
+  "version": "1.0.0",
+  "main": "account.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
